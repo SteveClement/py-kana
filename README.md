@@ -15,3 +15,5 @@ pip install -r requirements.txt
 You can use [Hepburn](https://en.wikipedia.org/wiki/Hepburn_romanization) or [Kunrei shi-ki](https://en.wikipedia.org/wiki/Kunrei-shiki_romanization) romanization.
 
 There are other romanization schemes like [Nihon-shiki](https://en.wikipedia.org/wiki/Nihon-shiki_romanization) more information on the [Romanization of Japanese](https://en.wikipedia.org/wiki/Romanization_of_Japanese) Wikipedia page.
+
+pbRomanji.py - Check clipboard/pasteboard for CJK contents and print out the Romanization.
