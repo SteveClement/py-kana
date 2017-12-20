@@ -1,3 +1,4 @@
+-r base.txt
 emoji
 numpy
 git+https://github.com/pygame/pygame.git
