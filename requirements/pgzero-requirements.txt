@@ -2,4 +2,4 @@
 emoji
 numpy
 git+https://github.com/pygame/pygame.git
-hg+http://bitbucket.org/SteveClement/pgzero
+git+https://github.com/SteveClement/pgzero
