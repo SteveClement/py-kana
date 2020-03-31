@@ -1,1 +1,6 @@
--r base.txt
+-i https://pypi.org/simple
+-e git+git://github.com/SteveClement/japanese-numbers-python.git@be9dcfa159e855c959a749c66b7d379a99578f73#egg=japanese-numbers-python
+future==0.18.2
+nose==1.3.7
+romkan==0.2.1
+xerox==0.4.1

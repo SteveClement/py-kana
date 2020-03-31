@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "a7ab3a726d84091d74a29ba223db70d0c3627cb314abae0919005362f54a3c16"
+            "sha256": "34ae86631b5eb6922f63371c33b211fc3aeffccc98d7d749b44d5785dae6a914"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -16,6 +16,25 @@
         ]
     },
     "default": {
+        "future": {
+            "hashes": [
+                "sha256:b1bead90b70cf6ec3f0710ae53a525360fa360d306a86583adc6bf83a4db537d"
+            ],
+            "version": "==0.18.2"
+        },
+        "japanese-numbers-python": {
+            "editable": true,
+            "git": "git://github.com/SteveClement/japanese-numbers-python.git",
+            "ref": "be9dcfa159e855c959a749c66b7d379a99578f73"
+        },
+        "nose": {
+            "hashes": [
+                "sha256:9ff7c6cc443f8c51994b34a667bbcf45afd6d945be7477b52e97516fd17c53ac",
+                "sha256:dadcddc0aefbf99eea214e0f1232b94f2fa9bd98fa8353711dacb112bfcbbb2a",
+                "sha256:f1bffef9cbc82628f6e7d7b40d7e255aefaa1adb6a1b1d26c69a8b79e6208a98"
+            ],
+            "version": "==1.3.7"
+        },
         "romkan": {
             "hashes": [
                 "sha256:a530245a38969704700e0ca8f9cb7158c4ede91c5fd1e24677dbe814cf91f33b"
